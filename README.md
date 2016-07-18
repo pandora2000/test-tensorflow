@@ -5,7 +5,7 @@ Test code from [tutorial](https://www.tensorflow.org/versions/r0.9/tutorials/mni
 # Installation
 
 1. [install pyenv](https://gist.github.com/pandora2000/30c0836298459ba85775dcd60b586fe4)
-1. install pyenv-virtualenv
+1. [install pyenv-virtualenv](https://gist.github.com/pandora2000/4b9af07d9c1af2d948d6aa012aff3daa)
 1. `pyenv install 3.4.3`
 1. `pyenv virtualenv --system-site-packages 3.4.3 tensorflow-ssp-3.4.3`
 1. `pyenv local tensorflow-ssp-3.4.3`
