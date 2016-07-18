@@ -1,6 +1,6 @@
 # Overview
 
-Test code from [[tutorial|https://www.tensorflow.org/versions/r0.9/tutorials/mnist/pros/index.html]] of TensorFlow.
+Test code from [tutorial](https://www.tensorflow.org/versions/r0.9/tutorials/mnist/pros/index.html) of TensorFlow.
 
 # Installation
 
